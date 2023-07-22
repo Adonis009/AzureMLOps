@@ -1,0 +1,2 @@
+# AzureMLOps
+Azure MLOps projects
